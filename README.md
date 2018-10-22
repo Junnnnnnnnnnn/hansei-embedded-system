@@ -10,3 +10,8 @@
 ![8](https://user-images.githubusercontent.com/39250642/46917543-6c954000-d003-11e8-8e35-649542c0aebb.png)
 
 관련 링크 http://www.iotdanawa.com/archives/3390
+
+
+http://www.devicemart.co.kr/1341781 lcd
+http://www.devicemart.co.kr/33870 압력센서
+http://www.devicemart.co.kr/1322885 컴버터
