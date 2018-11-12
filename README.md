@@ -54,3 +54,7 @@ http://www.devicemart.co.kr/1322885 컴버터
 A)iptime 무선공유기를 구한뒤에 포트포워딩 성공하기
 
 B)카카오 플러스 친구 ui 구성하기 ex)통장 금액 확인, 비밀번호 변경 등
+
+
+
+관련 링크 https://blog.naver.com/roboholic84/221363480611 챗봇과 DB
